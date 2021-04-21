@@ -42,7 +42,7 @@ Normalization: Veri setindeki her bir değeri, ilgili sütundaki min max değerl
 Robust Scaler: Outlierlara karşı robust olan IQR istatistiğine göre veri seti ölçeklendiriliyor. Not: IQR= Q3-Q1 \n
 -Feature selection: Model eğitiminde kullanılacak verilere karar verilir. Problemi çözmek için gereksiz ve problemin çözümüne etkisi olmayan özellikleri tespit ederek bunları kullanmamaktır. \n
 Gereksiz özellikler gereksiz korelasyonlar oluşturur ve modelin genellenebilirliğini zayıflatır. Özellik seçimi ayrıca aşırı öğrenme (overfitting) olasılığını da azaltır, \n
-model eğitiminde gereksiz kaynak tüketiminin önüne geçer. Daha az özellik, daha anlaşılır ve yorumlanır modellerin oluşturulmasını sağlar. \n 
+model eğitiminde gereksiz kaynak tüketiminin önüne geçer. Daha az özellik, daha anlaşılır ve yorumlanır modellerin oluşturulmasını sağlar."
 "-Bucketing(Binning): Gürültülü verilerin etkilerini en aza indirmek için kullanılır. \n
 Orijinal veri değerleri, küçük aralıklara bölünür ve daha sonra bu bölme için hesaplanan genel bir değerle değiştirilir. \n
 -Feature Extraction: Nitelik çıkarımı orijinal nitelikleri karıştırarak yeni ancak gereksiz olmayan değişkenler elde edilmesini sağlar. \n
