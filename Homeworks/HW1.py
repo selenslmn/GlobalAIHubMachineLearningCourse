@@ -23,12 +23,12 @@
 "Tek katmanlı bir ağ olup giriş ve çıkış nöronlarından oluşur. Giriş nöronlarının sayısını veri setindeki değişken sayısı belirler, Çıkış nöronlarının her biri bir kümeyi temsil eder."
 
 #Question 3
-"Eğitim seti: Modelin eğitildiği veri kümesidir.
-"Test seti: Bir eğitim kümesinde geliştirilen modeli değerlendirmek için kullanılan bir veri kümesidir.
-"Doğrulama seti: Modelin üzerinde eğitim alınmamış ve hiperparametreleri ayarlamak için kullanılan veriler. 
-"Modelleme veya tahminlemede bulunmadan önce veri setimizi bir eğitim ve test setine ayırmalıyız. Böylelikle eğitim seti üzerinde modelimizi eğitir ve test seti üzerinde tahminler yapabiliriz. \n"
-"Eğitim setimiz büyüdükçe modelimiz daha iyi öğrenecektir. Test setimiz büyüdükçe ise değerlendirme metriklerimize daha iyi güvenebileceğimiz daha sıkı güven aralıklarımız olacaktır. \n"
-"Doğrulama seti ile her eğitim sonunda model etkinliğini test edip nihai modele karar verdikten sonra test seti ile test ederek modelimizin etkinliği daha sağlıklı bir şekilde gözlemleyebiliriz."
+"Eğitim seti: Modelin eğitildiği veri kümesidir. \n
+Test seti: Bir eğitim kümesinde geliştirilen modeli değerlendirmek için kullanılan bir veri kümesidir. \n
+Doğrulama seti: Modelin üzerinde eğitim alınmamış ve hiperparametreleri ayarlamak için kullanılan veriler. \n 
+"Modelleme veya tahminlemede bulunmadan önce veri setimizi bir eğitim ve test setine ayırmalıyız. Böylelikle eğitim seti üzerinde modelimizi eğitir ve test seti üzerinde tahminler yapabiliriz. \n
+Eğitim setimiz büyüdükçe modelimiz daha iyi öğrenecektir. Test setimiz büyüdükçe ise değerlendirme metriklerimize daha iyi güvenebileceğimiz daha sıkı güven aralıklarımız olacaktır. \n
+Doğrulama seti ile her eğitim sonunda model etkinliğini test edip nihai modele karar verdikten sonra test seti ile test ederek modelimizin etkinliği daha sağlıklı bir şekilde gözlemleyebiliriz."
 
 #Question 4
 "Veri Ön İşleme veri setinin model eğitimine hazır hale getirilmesine ilişkin tüm adımları içerir. \n"
