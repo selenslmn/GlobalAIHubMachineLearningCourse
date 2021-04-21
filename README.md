@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 19.04.2021  
 **Name:** Zeliha Selen  
 **Surname:** Salman  
 **Email:** salmanselen@gmail.com  
